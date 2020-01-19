@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ae6b9af88470c35b5df517faaac634ef",
+    "revision": "e21c4d8706276bcfa073619eee2985f1",
     "url": "/MHG-Scansion-WebApp/index.html"
   },
   {
-    "revision": "3a8597bc79c51d2fb812",
+    "revision": "3cd17139c3e758d6e3d4",
     "url": "/MHG-Scansion-WebApp/static/css/main.fec67104.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/MHG-Scansion-WebApp/static/js/2.2ba2a324.chunk.js"
   },
   {
-    "revision": "3a8597bc79c51d2fb812",
-    "url": "/MHG-Scansion-WebApp/static/js/main.051112e2.chunk.js"
+    "revision": "3cd17139c3e758d6e3d4",
+    "url": "/MHG-Scansion-WebApp/static/js/main.e02ef21e.chunk.js"
   },
   {
     "revision": "5ea4ed2c77d33afc5e20",

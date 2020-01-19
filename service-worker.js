@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/MHG-Scansion-WebApp/precache-manifest.66777753aef0be6c5ed558b613b297f4.js"
+  "/MHG-Scansion-WebApp/precache-manifest.094ff88a3097dea09ee4ba69f48d5497.js"
 );
 
 self.addEventListener('message', (event) => {
