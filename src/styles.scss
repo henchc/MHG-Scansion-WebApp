@@ -34,15 +34,20 @@ form {
 
 .result {
   border-radius: 4px;
-  padding: 2em;
-  width: calc(50% - 4em);
+  padding: 1em;
+  padding-top: 0em;
+  padding-bottom: 0em;
+  width: calc(50% - 2em);
   margin-top: 2em;
+  margin-bottom: 1em;
   line-height: 27px;
   overflow: auto;
 }
 
 .pending {
   border: 1px solid #ffeb3b;
+  padding: 1em;
+  width: calc(50% - 2em);
   background-color: #fffde7;
 }
 
