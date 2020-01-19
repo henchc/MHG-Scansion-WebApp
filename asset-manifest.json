@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/MHG-Scansion-WebApp/static/css/main.fec67104.chunk.css",
+    "main.css": "/MHG-Scansion-WebApp/static/css/main.a9b1c1b4.chunk.css",
     "main.js": "/MHG-Scansion-WebApp/static/js/main.e02ef21e.chunk.js",
     "main.js.map": "/MHG-Scansion-WebApp/static/js/main.e02ef21e.chunk.js.map",
     "runtime-main.js": "/MHG-Scansion-WebApp/static/js/runtime-main.3894216a.js",
@@ -8,8 +8,8 @@
     "static/js/2.2ba2a324.chunk.js": "/MHG-Scansion-WebApp/static/js/2.2ba2a324.chunk.js",
     "static/js/2.2ba2a324.chunk.js.map": "/MHG-Scansion-WebApp/static/js/2.2ba2a324.chunk.js.map",
     "index.html": "/MHG-Scansion-WebApp/index.html",
-    "precache-manifest.094ff88a3097dea09ee4ba69f48d5497.js": "/MHG-Scansion-WebApp/precache-manifest.094ff88a3097dea09ee4ba69f48d5497.js",
+    "precache-manifest.97b010de86364f12a29801638bb2524e.js": "/MHG-Scansion-WebApp/precache-manifest.97b010de86364f12a29801638bb2524e.js",
     "service-worker.js": "/MHG-Scansion-WebApp/service-worker.js",
-    "static/css/main.fec67104.chunk.css.map": "/MHG-Scansion-WebApp/static/css/main.fec67104.chunk.css.map"
+    "static/css/main.a9b1c1b4.chunk.css.map": "/MHG-Scansion-WebApp/static/css/main.a9b1c1b4.chunk.css.map"
   }
 }
