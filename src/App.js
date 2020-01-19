@@ -31,7 +31,7 @@ function App() {
       </form>
 
       {generatedText.pending &&
-        <div className='result pending'>Please wait</div>}
+        <div className='result pending'>Scanning...</div>}
 
       {generatedText.complete &&
         (generatedText.error ?
